@@ -1,0 +1,3 @@
+un petit programme pour la resolution du probleme de diner des cinq(5) philosophes.
+
+en édition......
